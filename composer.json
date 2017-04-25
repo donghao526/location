@@ -1,5 +1,5 @@
 {
-    "name": "slatedfish/location",
+    "name": "saltedfish/location",
     "type": "library",
     "description": "transform longitude and latitude to address",
     "keywords": ["location","address"],
@@ -15,6 +15,7 @@
     "require": {
         "php": ">=5.3.0"
     },
+    "minimum-stability": "stable",
     "autoload": {
 		"psr-4": {
 			"Saltedfish\\Location\\": "src/location/"
