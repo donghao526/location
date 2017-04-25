@@ -2,3 +2,8 @@
 
 ## Install
 composer require slatedfish/location
+
+```
+$test = new Saltedfish\Location\Location(123, 456);
+$test->transformToAddress();
+```
