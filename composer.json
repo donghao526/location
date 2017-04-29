@@ -18,7 +18,8 @@
     "minimum-stability": "stable",
     "autoload": {
 		"psr-4": {
-			"Saltedfish\\Location\\": "src/location/"
+			"Saltedfish\\Location\\": "src/location/",
+            "Saltedfish\\Util\\": "src/util/"
 		}
     }
 }
