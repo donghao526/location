@@ -5,5 +5,5 @@ composer require slatedfish/location
 
 ```
 $test = new Saltedfish\Location\Location(123, 456);
-$test->transformToAddress();
+$address = $test->transformToAddress();
 ```
